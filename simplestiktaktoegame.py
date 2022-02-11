@@ -18,7 +18,7 @@ def player_signpick():
     sign1 = ''
     sign2 = ''
     player1_turn = True
-
+#
     signs = ['X','O']
 
     while sign1 not in signs:
